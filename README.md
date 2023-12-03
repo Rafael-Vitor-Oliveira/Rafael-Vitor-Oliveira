@@ -1,7 +1,7 @@
 <h1>Olá! Meu nome é Rafael Oliveira 👋😉</h1>
 
-- 📕📖 Estou estudando HTML, CSS e JavaScript
-- 🔎💻 Procuro ser um programador Front-End.
+- 🔎💻 Sou um programador Front-End
+- 📕📖 Aperfeiçoando meu HTML, CSS e JavaScript
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
